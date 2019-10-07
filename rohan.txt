@@ -1,2 +1,2 @@
 hello there
-first time usng git
+first time usng git 1
